@@ -1,0 +1,19 @@
+{
+  "system": "calendar",
+  "records": [
+    {
+      "id": "cal-ai-review",
+      "date": "2026-01-15",
+      "title": "AI review — monthly",
+      "body": "Standing 60-minute leadership review of the request backlog. Aria presents start / stop / continue / defer decisions.",
+      "attendees": 8
+    },
+    {
+      "id": "cal-office-hours",
+      "date": "2026-04-09",
+      "title": "Prototyping workshop office hours",
+      "body": "Drop-in coaching. The sign-in sheet is the source of truth for who was trained; do not quote chat guesses.",
+      "attendees": 11
+    }
+  ]
+}

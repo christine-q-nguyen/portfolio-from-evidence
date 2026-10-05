@@ -1,0 +1,19 @@
+{
+  "system": "chat",
+  "records": [
+    {
+      "id": "chat-0412",
+      "date": "2026-04-12",
+      "channel": "#enablement",
+      "body": "office hours were packed. i think we trained like 40 people this week?? wild. — Jordan",
+      "author": "Jordan P."
+    },
+    {
+      "id": "chat-0318",
+      "date": "2026-03-18",
+      "channel": "#prototypes",
+      "body": "Aria: the engineer started from last Thursday's brief without a follow-up call. That is the acceptance test. If he cannot start from the brief, the template is not working.",
+      "author": "Aria Chen"
+    }
+  ]
+}

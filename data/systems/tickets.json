@@ -1,0 +1,26 @@
+{
+  "system": "tickets",
+  "records": [
+    {
+      "id": "HARB-41",
+      "date": "2026-03-12",
+      "title": "Shorten the path from AI idea to first prototype",
+      "body": "Baseline: a new AI idea waits three months for a first prototype. Goal: a recorded working session produces a one-page brief the same day, and a first version within about ten days.",
+      "author": "Aria Chen"
+    },
+    {
+      "id": "HARB-180",
+      "date": "2026-01-08",
+      "title": "Request backlog snapshot",
+      "body": "Backlog is 180 open requests; 64 are in flight. This is a count of current demand, not year-over-year growth.",
+      "author": "ops-bot"
+    },
+    {
+      "id": "HARB-142",
+      "date": "2026-02-20",
+      "title": "Sort the AI request backlog",
+      "body": "142 requests sorted by the job the model would actually do. 61 were data-quality fixes that no model could solve. Those go to the data engineers first.",
+      "author": "Aria Chen"
+    }
+  ]
+}

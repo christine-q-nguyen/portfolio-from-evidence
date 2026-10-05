@@ -1,0 +1,19 @@
+{
+  "system": "documents",
+  "records": [
+    {
+      "id": "doc-checkin",
+      "date": "2021-06-14",
+      "title": "Clinic check-in redesign — closeout",
+      "body": "Average wait: 14 minutes at kickoff, 5 minutes at closeout. Patient satisfaction 3.9 to 4.6. Sites: 12 clinics.",
+      "author": "Aria Chen"
+    },
+    {
+      "id": "doc-router-notes",
+      "date": "2026-05-02",
+      "title": "Router evaluation notebook (not shipped)",
+      "body": "On this labeled sample, the request router hit 97% in our testing. This is a notebook result, not a production metric. Do not put 97% on a resume without saying in our testing, on this dataset.",
+      "author": "Aria Chen"
+    }
+  ]
+}

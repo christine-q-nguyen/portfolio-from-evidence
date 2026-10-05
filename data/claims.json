@@ -1,0 +1,53 @@
+{
+  "persona": {
+    "name": "Aria Chen",
+    "from": "product designer",
+    "to": "AI enablement lead",
+    "org": "Harbor Labs (fictional)"
+  },
+  "note": "Synthetic resume claims for a fictional person at a fictional company. No real employer, client, or project is described. Mining must confirm, correct, estimate, or retire each one. Status before mining is always pending.",
+  "claims": [
+    {
+      "id": "C01",
+      "text": "Cut the time from AI idea to first prototype from three months to about ten days.",
+      "used_as": "headline",
+      "status": "pending"
+    },
+    {
+      "id": "C02",
+      "text": "Grew the AI request backlog 180% since I joined.",
+      "used_as": "headline",
+      "status": "pending"
+    },
+    {
+      "id": "C03",
+      "text": "Sorted 142 AI requests and found 61 were data-quality fixes, not AI work.",
+      "used_as": "body",
+      "status": "pending"
+    },
+    {
+      "id": "C04",
+      "text": "Routing accuracy reached 97% in production.",
+      "used_as": "body",
+      "status": "pending"
+    },
+    {
+      "id": "C05",
+      "text": "Trained 40 people in one week at the new prototyping workshop.",
+      "used_as": "body",
+      "status": "pending"
+    },
+    {
+      "id": "C06",
+      "text": "Redesigned clinic check-in: the average wait went from 14 minutes to 5, and satisfaction from 3.9 to 4.6.",
+      "used_as": "earlier-career",
+      "status": "pending"
+    },
+    {
+      "id": "C07",
+      "text": "Ran a standing monthly AI review with the leadership team.",
+      "used_as": "body",
+      "status": "pending"
+    }
+  ]
+}

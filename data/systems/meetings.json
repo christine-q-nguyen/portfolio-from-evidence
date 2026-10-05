@@ -1,0 +1,19 @@
+{
+  "system": "meetings",
+  "records": [
+    {
+      "id": "mtg-2026-03-20",
+      "date": "2026-03-20",
+      "title": "Prototype check-in with engineering",
+      "body": "Aria: an AI idea used to wait three months for a first prototype. With a recorded working session and a one-page brief, engineering had a first version in about ten days.",
+      "author": "transcript"
+    },
+    {
+      "id": "mtg-2026-02-21",
+      "date": "2026-02-21",
+      "title": "Backlog readout",
+      "body": "Aria: sorting 142 requests by the actual job showed 61 that are not AI work at all. They are data-quality fixes, and they have to go first.",
+      "author": "transcript"
+    }
+  ]
+}

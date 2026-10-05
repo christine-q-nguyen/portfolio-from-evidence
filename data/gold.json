@@ -1,0 +1,12 @@
+{
+  "note": "What a careful reviewer would tag. The eval prints any miss instead of hiding it.",
+  "claims": [
+    {"id": "C01", "tag": "verified"},
+    {"id": "C02", "tag": "retire"},
+    {"id": "C03", "tag": "verified"},
+    {"id": "C04", "tag": "estimate"},
+    {"id": "C05", "tag": "flagged"},
+    {"id": "C06", "tag": "verified"},
+    {"id": "C07", "tag": "verified"}
+  ]
+}

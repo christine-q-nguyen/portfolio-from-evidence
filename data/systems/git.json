@@ -1,0 +1,12 @@
+{
+  "system": "git",
+  "records": [
+    {
+      "id": "pr-88",
+      "date": "2026-03-24",
+      "title": "Add the prototype-brief template",
+      "body": "Merged. A template that turns a recorded working session into a one-page brief, open questions, and a first technical step. Reviewers: two engineers on the platform team.",
+      "author": "Aria Chen"
+    }
+  ]
+}
