@@ -1,0 +1,77 @@
+{
+  "note": "Eight made-up postings at made-up companies (the Microsoft sample-company names), so the weekly digest runs offline. `python3 jobsearch.py digest --live` reads real public job boards instead; see data/targets.example.json.",
+  "postings": [
+    {
+      "id": "P01",
+      "company": "Contoso",
+      "title": "Head of AI Enablement",
+      "location": "Remote (US)",
+      "comp": "$210K – $260K",
+      "url": "https://example.com/contoso/head-of-ai-enablement",
+      "text": "Lead AI enablement for 3,000 employees. Run workshops and office hours, get ideas to working prototypes with the teams that asked, partner with leadership on AI priorities, and measure adoption."
+    },
+    {
+      "id": "P02",
+      "company": "Woodgrove Bank",
+      "title": "AI Adoption Product Manager",
+      "location": "New York, NY · hybrid",
+      "comp": "$185K – $215K",
+      "url": "https://example.com/woodgrove/ai-adoption-pm",
+      "text": "Own intake and triage of AI requests from operations teams, ship prototypes with them, set accuracy targets with the model team, and work with data teams on data quality."
+    },
+    {
+      "id": "P03",
+      "company": "Fabrikam",
+      "title": "AI Enablement Lead, Sales",
+      "location": "Remote",
+      "comp": "",
+      "url": "https://example.com/fabrikam/ai-enablement-lead-sales",
+      "text": "Build the training program that gets 400 sellers using AI every week. Run workshops, track usage and adoption metrics, and report to sales leadership."
+    },
+    {
+      "id": "P04",
+      "company": "Litware",
+      "title": "Senior Product Designer, AI",
+      "location": "San Francisco, CA · onsite",
+      "comp": "$170K – $200K",
+      "url": "https://example.com/litware/senior-product-designer-ai",
+      "text": "Design AI features end to end, prototype in code, and run research with customers."
+    },
+    {
+      "id": "P05",
+      "company": "Adventure Works",
+      "title": "Director, AI Transformation",
+      "location": "Remote",
+      "comp": "$240K – $300K",
+      "url": "https://example.com/adventure-works/director-ai-transformation",
+      "text": "Run the AI portfolio: triage demand from every function, get the best ideas to prototypes, review priorities with the executive team, and measure the value delivered."
+    },
+    {
+      "id": "P06",
+      "company": "Tailspin Toys",
+      "title": "Service Design Lead",
+      "location": "Remote",
+      "comp": "$165K – $185K",
+      "url": "https://example.com/tailspin/service-design-lead",
+      "text": "Redesign the returns service end to end, measure wait times and satisfaction before and after, and run workshops with store teams."
+    },
+    {
+      "id": "P07",
+      "company": "Proseware",
+      "title": "Forward Deployed Engineer",
+      "location": "Remote",
+      "comp": "$190K – $250K",
+      "url": "https://example.com/proseware/forward-deployed-engineer",
+      "text": "Write production Python and TypeScript, deploy to Kubernetes, and build integrations on customer sites."
+    },
+    {
+      "id": "P08",
+      "company": "Wingtip Toys",
+      "title": "AI Training Program Manager",
+      "location": "Chicago, IL · onsite",
+      "comp": "$140K – $160K",
+      "url": "https://example.com/wingtip/ai-training-program-manager",
+      "text": "Coordinate AI training sessions and track attendance."
+    }
+  ]
+}

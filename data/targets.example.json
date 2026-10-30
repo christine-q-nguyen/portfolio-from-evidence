@@ -1,0 +1,8 @@
+{
+  "note": "Copy to data/targets.json, list the companies you want to watch, then run: python3 jobsearch.py digest --live. Boards are public: Greenhouse and Lever use the company's board token, Ashby its job-board name. These three are examples of the format, not recommendations.",
+  "targets": [
+    {"company": "Anthropic", "ats": "greenhouse", "token": "anthropic"},
+    {"company": "OpenAI", "ats": "ashby", "token": "openai"},
+    {"company": "Example Co", "ats": "lever", "token": "example"}
+  ]
+}

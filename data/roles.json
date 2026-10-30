@@ -1,0 +1,48 @@
+{
+  "note": "The role families Aria is weighing, and what she wants from the next job. Each requirement lists the words postings use for it. Edit this file for your own search; nothing here is real.",
+  "wants": {
+    "locations": ["remote", "new york"],
+    "min_base": 180000,
+    "levels": ["head", "director", "lead", "principal", "senior"]
+  },
+  "roles": [
+    {
+      "id": "enablement-lead",
+      "title": "AI Enablement Lead",
+      "match_titles": ["enablement", "transformation", "adoption lead"],
+      "summary": "AI enablement lead who gets AI ideas to working prototypes fast, sorts real AI work from everything else, and helps teams keep going on their own.",
+      "requirements": [
+        {"need": "Gets AI ideas to a working prototype fast", "keywords": ["prototype", "prototypes", "idea", "ideas"]},
+        {"need": "Runs training or workshops that change how people work", "keywords": ["training", "trained", "workshop", "workshops", "office hours"]},
+        {"need": "Works with leadership on AI priorities", "keywords": ["leadership", "priorities", "executive", "review"]},
+        {"need": "Sorts demand and says no to what isn't AI", "keywords": ["requests", "demand", "triage", "intake", "sorted"]},
+        {"need": "Measures adoption", "keywords": ["adoption", "usage", "measure", "metrics"]}
+      ]
+    },
+    {
+      "id": "adoption-pm",
+      "title": "AI Adoption Product Manager",
+      "match_titles": ["product manager", "product lead"],
+      "summary": "Product manager for AI adoption: runs intake, ships prototypes with the teams that asked, and is honest about what the numbers do and don't show.",
+      "requirements": [
+        {"need": "Owns intake and triage of AI requests", "keywords": ["intake", "triage", "requests", "demand", "sorted"]},
+        {"need": "Ships prototypes with the requesting team", "keywords": ["prototype", "prototypes", "ship", "ships"]},
+        {"need": "Sets accuracy targets and reads model results", "keywords": ["accuracy", "routing", "model", "evaluation"]},
+        {"need": "Works with data teams on data quality", "keywords": ["data quality", "data-quality", "data"]},
+        {"need": "Measures adoption", "keywords": ["adoption", "usage", "measure", "metrics"]}
+      ]
+    },
+    {
+      "id": "service-design-lead",
+      "title": "Service Design Lead",
+      "match_titles": ["service design", "designer", "design lead"],
+      "summary": "Service designer who redesigns the moments people wait, measures the change, and brings AI in where it helps.",
+      "requirements": [
+        {"need": "Redesigns a service end to end", "keywords": ["redesigned", "redesign", "service", "check-in"]},
+        {"need": "Measures the experience before and after", "keywords": ["satisfaction", "wait", "minutes", "measure"]},
+        {"need": "Gets ideas in front of people early", "keywords": ["prototype", "prototypes", "idea"]},
+        {"need": "Runs workshops with frontline teams", "keywords": ["workshop", "workshops", "training", "trained"]}
+      ]
+    }
+  ]
+}

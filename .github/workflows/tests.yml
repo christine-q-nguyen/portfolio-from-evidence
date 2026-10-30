@@ -20,3 +20,11 @@ jobs:
           cat "$RUNNER_TEMP/eval.txt"
           grep -q "accuracy  6/7" "$RUNNER_TEMP/eval.txt"
           grep -q "weak spot C07: got flagged, gold verified" "$RUNNER_TEMP/eval.txt"
+      - name: The job search demo still tells the same story
+        run: |
+          python ledger.py mine && python ledger.py approve --yes --approver "CI"
+          python jobsearch.py resume
+          python jobsearch.py fit | tee "$RUNNER_TEMP/fit.txt"
+          grep -q "80%  AI Adoption Product Manager" "$RUNNER_TEMP/fit.txt"
+          python jobsearch.py digest --all | tee "$RUNNER_TEMP/digest.txt"
+          grep -q "Woodgrove Bank: AI Adoption Product Manager" "$RUNNER_TEMP/digest.txt"
